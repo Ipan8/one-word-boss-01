@@ -4,16 +4,9 @@
 [![rank](https://make.fun/badge/u-swift-badger-44-one-word-for-the-boss-6b48c735/Ipan8/one-word-boss-01/rank.svg)](https://make.fun/bounty/u-swift-badger-44-one-word-for-the-boss-6b48c735/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-swift-badger-44-one-word-for-the-boss-6b48c735)
 [![reward](https://make.fun/badge/u-swift-badger-44-one-word-for-the-boss-6b48c735/Ipan8/one-word-boss-01/reward.svg)](https://make.fun/bounty/u-swift-badger-44-one-word-for-the-boss-6b48c735?utm_source=github&utm_medium=readme&utm_campaign=u-swift-badger-44-one-word-for-the-boss-6b48c735)
 
-## Entry
+Entry: **Reply-All** — exactly one word.
 
-**Reply-All** (9 characters — exactly one word)
+The boss who CCs the entire company on everything, so a two-line update
+lands in forty-seven inboxes and the reply-all chain outlives the project.
 
-The boss who CCs the entire company on everything and turns every thread
-into a group project. One word, universally true, and fresh next to the
-usual "Micromanager". The reply-all chain outlives the project itself.
-
-## Run
-
-```sh
-node main.ts   # writes the entry word to /output/entry.txt
-```
+Run `node main.ts` to write the entry word to `/output/entry.txt`.
